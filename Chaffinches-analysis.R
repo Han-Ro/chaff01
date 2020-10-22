@@ -56,6 +56,6 @@ ggsave("~/R Workshop/Chaffinches/figures/fig1.tiff",
        dpi = dpi)
 
 
-
+##hello this is emily, I like your graph :)
 
 
